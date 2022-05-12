@@ -1,0 +1,16 @@
+.__task {
+    background-color: #f4f4f4;
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.__task .__reminder {
+    border-left: 5px solid #008000;
+}
+
+.__task h4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
