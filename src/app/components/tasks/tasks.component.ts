@@ -28,13 +28,18 @@ export class TasksComponent implements OnInit {
     ))
   }
 
-  // Dejé en 1 h 34' 16/05/2022
 
   toggleReminder(task: Task) {
     // Actualizo el front
     task.reminder = !task.reminder;
     // Le envio el cambio al servicio para que actualice mi DB
     this.taskService.updateTaskReminder(task).subscribe();
+  }
+
+  addTask(task: Task) {
+    this.taskService.addTask(task).subscribe((task) => (
+      this.tasks.push(task)
+    ));
   }
 
 

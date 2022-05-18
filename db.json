@@ -7,16 +7,22 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "Leer mi libro favorito",
-      "day": "6 de agosto 17:00 h",
-      "reminder": true
-    },
-    {
       "id": 3,
       "text": "Ver a River Plate",
       "day": "19 de mayo 21:00 h",
       "reminder": true
+    },
+    {
+      "text": "Ir a rehabilitación",
+      "day": "Jueves 11:30 h",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Agregando una tarea",
+      "day": "Hoy, ahora mismo",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
