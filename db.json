@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Terminar el módulo 1 de Angular",
-      "day": "5 de agosto 12:00 h",
-      "reminder": true
-    },
-    {
       "id": 3,
       "text": "Ver a River Plate",
       "day": "19 de mayo 21:00 h",
@@ -23,6 +17,12 @@
       "day": "Hoy, ahora mismo",
       "reminder": false,
       "id": 6
+    },
+    {
+      "text": "jnkljn",
+      "day": "ijoijoi",
+      "reminder": true,
+      "id": 7
     }
   ]
 }
