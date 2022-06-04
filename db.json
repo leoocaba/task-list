@@ -3,20 +3,26 @@
     {
       "text": "Agregando una tarea",
       "day": "2022-05-23T00:00",
-      "reminder": false,
+      "reminder": true,
       "id": 6
     },
     {
       "text": "Prueba horaria",
       "day": "2022-05-23T22:00",
-      "reminder": true,
+      "reminder": false,
       "id": 7
     },
     {
-      "text": "Hola mundo",
-      "day": "2022-10-05T10:00",
+      "text": "Nueva tarea",
+      "day": "2022-06-16T00:00",
+      "reminder": true,
+      "id": 9
+    },
+    {
+      "text": "Nueva tarea",
+      "day": "2022-06-16T00:00",
       "reminder": false,
-      "id": 8
+      "id": 10
     }
   ]
 }
